@@ -10,12 +10,12 @@
 </p>
 
 ## About Me 🚀
-- 📍 **From**: Đồng Nai, Vietnam (hiện đang ở TP.HCM)
+- 📍 **From**: Đồng Nai, Vietnam
 - 🎯 **Target 2026**: Chinh phục các kỳ thi lớn nhất Tin học Việt Nam!
-  - Olympic truyền thống 30/4 (lần XXIX hoặc XXX, thường tháng 3-4)
-  - Olympic Tin học Miền Trung – Tây Nguyên (lần VI hoặc VII, do VKU tổ chức, thường vòng chung kết tháng 3-4)
-  - Hue-ICT Challenge (thường tháng 3-6)
-  - **VOI** (Vietnam Olympiad in Informatics) → Nhắm đội tuyển Olympic Tin học quốc tế 2026 (thi chọn tháng 3/2026)
+  - Olympic truyền thống 30/4
+  - Olympic Tin học Miền Trung – Tây Nguyên
+  - Hue-ICT Challenge
+  - **VOI** (Vietnam Olympiad in Informatics)
 - 💻 **Skills**: C++ (thi đấu chính, tối ưu code), Python (prototype nhanh), Luau (Roblox scripting)
 - 🌱 **Currently learning**: Advanced algorithms (Graph, DP, String), Data Structures (SegTree, Fenwick, Trie), Competitive Programming strategies
 - ⚡ **Fun fact**: Tôi thích code lúc nửa đêm và nghe lo-fi để grind đề!
@@ -30,21 +30,13 @@
    - Pastebin cá nhân với compression mạnh mẽ → **giảm đến 50% dung lượng file archived** (sử dụng zstd/brotli + deduplication).
    - Features: Syntax highlighting, expiration time, simple API, dark mode.
    - Tech: Python (backend), HTML/CSS/JS (frontend), có thể deploy Vercel/Netlify.
-   - Repo: [Link repo nếu bạn push lên] | Demo: [Link nếu deploy]
-
-### 2. **Roblox Scripts & Games** (Luau projects)
-   - Một số script/game nhỏ trên Roblox, tập trung vào optimization và fun mechanics.
-   - Repo: [Link nếu có]
-
-### 3. **Competitive Programming Solutions**
-   - Collection giải đề từ VOI cũ, Codeforces rounds, AtCoder contests.
-   - Repo: [Tạo repo riêng nếu muốn, ví dụ: CP-Solutions]
+   - Repo: *OnProgress* | Demo: *OnProgress*
 
 ## Connect with Me 📫
 - GitHub: [@minkphc](https://github.com/minkphc)
-- Codeforces: [handle của bạn nếu có]
-- Email: [email cá nhân]
-- Discord/Telegram: [nếu muốn share]
+- Codeforces: minkphc
+- Email: minkphc@gmail.com
+- Discord/Telegram: tortoisetype
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minkphc&show_icons=true&theme=radical" alt="GitHub Stats" />
