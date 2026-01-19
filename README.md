@@ -22,11 +22,11 @@
 
 ## Goals & Achievements 🏆
 - Đang luyện tập hàng ngày trên **VNOJ**, **Codeforces**, **AtCoder** để chuẩn bị VOI và các Olympic lớn.
-- Đã tham gia/đang nhắm các vòng HSGQG 2025-2026 (kết quả công bố 19/01/2026, thi chọn đội tuyển tháng 3/2026).
+- Đã tham đang nhắm các vòng HSGQG 2026-2027.
 - Dự định hoàn thiện portfolio này sau mỗi kỳ thi để cập nhật huy chương!
 
 ## Projects 🔥
-### 1. **Optimized Pastebin Site** (Ongoing)
+### 1. **PasteArchived** (Ongoing)
    - Pastebin cá nhân với compression mạnh mẽ → **giảm đến 50% dung lượng file archived** (sử dụng zstd/brotli + deduplication).
    - Features: Syntax highlighting, expiration time, simple API, dark mode.
    - Tech: Python (backend), HTML/CSS/JS (frontend), có thể deploy Vercel/Netlify.
