@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+MinhPhuc+%F0%9F%91%8B;Competitive+Programmer+%7C+Future+IOI-er+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+MinhPhuc+%F0%9F%91%8B; Competitive+Programmer+%7C+Future+IOI-er+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## About Me 🚀
 - 📍 **From**: Đồng Nai, Vietnam
-- 🎯 **Target 2026**: Chinh phục các kỳ thi lớn nhất Tin học Việt Nam!
+- 🎯 **Target 2026-27**: Chinh phục các kỳ thi lớn nhất Tin học Việt Nam!
   - Olympic truyền thống 30/4
   - Olympic Tin học Miền Trung – Tây Nguyên
   - Hue-ICT Challenge
