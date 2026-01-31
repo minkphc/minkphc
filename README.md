@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=minkphc&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=minkphc" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=minkphc" alt="GitHub Streak" />
 </p>
 <p align="center">
   <i>"Code today, conquer tomorrow!" 💻🇻🇳</i>
