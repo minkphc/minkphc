@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+MinhPhuc+%F0%9F%91%8B;Competitive+Programmer+%7C+Future+IOI-er+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+MinhPhuc+%F0%9F%91%8B;Competitive+Programmer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minkphc&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
+<p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=minkphc" alt="GitHub Streak" /></p>
 <p align="center">
   <i>"Code today, conquer tomorrow!" 💻🇻🇳</i>
 </p>
